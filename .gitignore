@@ -1724,7 +1724,6 @@ fp-info-cache
 xcuserdata/
 *.xcscmblueprint
 *.xccheckout
-*.moved-aside
 !default.pbxuser
 !default.mode1v3
 !default.mode2v3
@@ -5114,3 +5113,4 @@ Sessionx.vim
 .netrwhist
 [._]*.un~
 nohup.out
+!/moveZerooz.ts
