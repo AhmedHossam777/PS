@@ -4441,10 +4441,8 @@ resources/.arch-internal-preview.css
 /robo
 /drush.phar
 /drush
-/drupal.phar
-/drupal
+
 jgiven-reports/
-*.asp
 *.jsp
 *.php
 *.rss
@@ -5114,3 +5112,4 @@ Sessionx.vim
 [._]*.un~
 nohup.out
 !/moveZerooz.ts
+!/palindrome.ts
