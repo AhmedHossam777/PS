@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHossam777/PS/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedHossam777/PS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AhmedHossam777/PS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedHossam777/PS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AhmedHossam777/PS/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
