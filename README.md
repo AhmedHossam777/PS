@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHossam777/PS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
+| [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedHossam777/PS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AhmedHossam777/PS/tree/master/0283-move-zeroes) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHossam777/PS/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
