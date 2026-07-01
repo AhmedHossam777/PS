@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHossam777/PS/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AhmedHossam777/PS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AhmedHossam777/PS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/AhmedHossam777/PS/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AhmedHossam777/PS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedHossam777/PS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AhmedHossam777/PS/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AhmedHossam777/PS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AhmedHossam777/PS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AhmedHossam777/PS/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
