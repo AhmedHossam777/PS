@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AhmedHossam777/PS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AhmedHossam777/PS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AhmedHossam777/PS/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
