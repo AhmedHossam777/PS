@@ -1,16 +1,22 @@
 class Solution {
   public boolean isAnagram(String s, String t) {
-    Map<Character, Integer> map1 = buildMap(s);
-    Map<Character, Integer> map2 = buildMap(t);
+    if(s.length() != t.length()) return false;
+    Map<Character, Integer> map = buildMap(s);
 
-    String testedString = s.length() > t.length() ? s : t;
+		for (int i = 0; i < t.length(); i++) {
+			char c = t.charAt(i);
+			if (!map.containsKey(c)) {
+				return false;
+			}
 
-    for (int i = 0; i < testedString.length(); i++) {
-      if (!Objects.equals(map1.get(testedString.charAt(i)), map2.get(testedString.charAt(i)))) {
-        return false;
-      }
-    }
-    return true;
+			int count = map.get(c);
+			if (count == 1) {
+				map.remove(c);
+			} else {
+				map.put(c, count - 1);
+			}
+		}
+		return map.isEmpty();
   }
 
   static HashMap<Character, Integer> buildMap(String s) {
