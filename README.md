@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0283-move-zeroes](https://github.com/AhmedHossam777/PS/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/AhmedHossam777/PS/tree/master/0643-maximum-average-subarray-i) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1603-running-sum-of-1d-array](https://github.com/AhmedHossam777/PS/tree/master/1603-running-sum-of-1d-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHossam777/PS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AhmedHossam777/PS/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/AhmedHossam777/PS/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
