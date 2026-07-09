@@ -3,17 +3,14 @@ class NumArray {
 
   public NumArray(int[] nums) {
     this.nums = nums;
+    for(int i =1 ; i < nums.length ; i++){
+      this.nums[i] += nums[i-1];
+    }
   }
 
   public int sumRange(int left, int right) {
-    int sum = 0;
-
-    for (int i = left; i <= right; i++) {
-      sum += nums[i];
-
-    }
-
-    return sum;
+    if(left == 0) return this.nums[right]; 
+    return this.nums[right] - this.nums[left-1];
   }
 }
 
