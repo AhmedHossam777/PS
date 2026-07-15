@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHossam777/PS/tree/master/0002-add-two-numbers) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AhmedHossam777/PS/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
