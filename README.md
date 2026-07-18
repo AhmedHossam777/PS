@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0643-maximum-average-subarray-i](https://github.com/AhmedHossam777/PS/tree/master/0643-maximum-average-subarray-i) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/AhmedHossam777/PS/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2714-left-and-right-sum-differences](https://github.com/AhmedHossam777/PS/tree/master/2714-left-and-right-sum-differences) |
 ## Bit Manipulation
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHossam777/PS/tree/master/0002-add-two-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
