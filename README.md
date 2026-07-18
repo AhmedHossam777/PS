@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/AhmedHossam777/PS/tree/master/1603-running-sum-of-1d-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2714-left-and-right-sum-differences](https://github.com/AhmedHossam777/PS/tree/master/2714-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AhmedHossam777/PS/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/AhmedHossam777/PS/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/AhmedHossam777/PS/tree/master/2714-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
