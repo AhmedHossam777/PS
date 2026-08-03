@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3859-maximum-product-of-two-digits](https://github.com/AhmedHossam777/PS/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHossam777/PS/tree/master/0002-add-two-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/AhmedHossam777/PS/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
