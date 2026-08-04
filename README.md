@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2714-left-and-right-sum-differences](https://github.com/AhmedHossam777/PS/tree/master/2714-left-and-right-sum-differences) |
+| [4107-find-missing-elements](https://github.com/AhmedHossam777/PS/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AhmedHossam777/PS/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3859-maximum-product-of-two-digits](https://github.com/AhmedHossam777/PS/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/AhmedHossam777/PS/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/AhmedHossam777/PS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AhmedHossam777/PS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4107-find-missing-elements](https://github.com/AhmedHossam777/PS/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
