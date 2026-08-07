@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHossam777/PS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AhmedHossam777/PS/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AhmedHossam777/PS/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/AhmedHossam777/PS/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/AhmedHossam777/PS/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmedHossam777/PS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHossam777/PS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AhmedHossam777/PS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AhmedHossam777/PS/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AhmedHossam777/PS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AhmedHossam777/PS/tree/master/0242-valid-anagram) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AhmedHossam777/PS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/AhmedHossam777/PS/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AhmedHossam777/PS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
